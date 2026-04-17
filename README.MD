@@ -1,66 +1,34 @@
-<h1 align="center">⚡ Trainer Profile</h1>
-<h3 align="center">Welcome to my Pokédex</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ2dWJzYW9xM2Y3a2o0dXJ3c2xqZ2R4a2Z2bXg0Y3U0Z2g4bW5xZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DRfu7BT8ZK1uo/giphy.gif" width="200">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400">
+</div>
 
----
+🔴 Sobre o Projeto
 
-# 🧢 Trainer Info
+Este projeto foi desenvolvido com a mesma determinação e foco de Kurapika, último sobrevivente do clã Kurta.
+Assim como seus olhos escarlates brilham diante da verdade, este projeto busca precisão, elegância e propósito.
 
-🎮 **Name:** Daniel Casalli
-🌎 **Region:** Internet  
-💻 **Role:** Developer in training  
-⚡ **Starter Pokémon:** Zoroark (JavaScript)
+🧠 Conceitos
+🎯 Foco absoluto nos objetivos
+🔗 Código limpo e organizado (como as correntes do Kurapika)
+⚖️ Equilíbrio entre performance e legibilidade
+🔍 Atenção aos detalhes
+⛓️ Funcionalidades
+✔️ Estrutura modular
+✔️ Fácil manutenção
+✔️ Escalável
+✔️ Documentação clara
+🚀 Tecnologias Utilizadas
+- Linguagem: (adicione aqui)
+- Framework: (adicione aqui)
+- Outras ferramentas: (adicione aqui)
+🔗 Filosofia do Projeto
 
----
+Assim como cada corrente de Kurapika possui um propósito único:
 
-# 🧬 Pokédex (Skills)
+🖐️ Dedo indicador → Direcionamento preciso
+💍 Dedo médio → Poder absoluto sob condições específicas
+🩹 Polegar → Recuperação e suporte
+⛓️ Corrente principal → Controle e disciplina
 
-### ⚡ Languages
-
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
----
-
-# 🎒 Trainer Bag (Tools)
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
-
-# 🏆 Gym Progress (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight">
-</p>
-
----
-
-# 🔥 Current Journey
-
-- 📚 Learning new technologies
-- 🛠️ Building cool projects
-- ⚡ Leveling up my coding skills
-
----
-
-# 📡 Connect With Me
-
-- 📧 Email: (daniel.casalli@aluno.senai.br)
-
----
-
-<p align="center">
-  ⭐ *"Gotta catch 'em all... bugs and features."*
-</p>
-
+Este projeto segue a mesma lógica: cada parte tem sua função clara e essencial.
