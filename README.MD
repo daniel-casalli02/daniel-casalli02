@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/_uxbjy_vFlgAAAAC/kurapika-hxh.gif" width="500"/>
 </p>
 
 <h1 align="center">⛓️ Kurapika Project ⛓️</h1>
