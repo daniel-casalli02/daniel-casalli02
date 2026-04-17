@@ -1,7 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400">
-</div>
+<h1 align="center">⛓️ Kurapika Project ⛓️</h1>
 
 🔴 Sobre o Projeto
 
